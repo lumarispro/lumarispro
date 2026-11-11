@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150">
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d58cf5" stop-opacity=".16"/><stop offset=".55" stop-color="#111427" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="topf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d58cf5" stop-opacity=".55"/><stop offset="1" stop-color="#d58cf5" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <path d="M26 4 H1254 L1280 22 H0 Z" fill="url(#topf)"/>
+  <rect x="0" y="22" width="1280" height="118" rx="6" fill="url(#face)" stroke="#23273d"/>
+  <rect x="0" y="22" width="4" height="118" fill="#d58cf5"/>
+  <text x="36" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#d58cf5">04</text>
+  <text x="150" y="52" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" letter-spacing="3" fill="#8d8fa8">LAYER 04</text>
+  <text x="150" y="88" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#e9e7f2">Network nodes</text>
+  <text x="150" y="116" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8d8fa8">RPC and validator infrastructure for public chains</text>
+  <text x="1240" y="94" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#e9e7f2">lava-provider <tspan fill="#d58cf5">↗</tspan></text>
+</svg>
